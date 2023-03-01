@@ -9,7 +9,7 @@ import Footer from '../components/common/Footer';
 const Home = () => (
   <Root>
     <Head>
-      <title>Collection</title>
+      <title>Collection | Mulberry</title>
     </Head>
     <Collections />
     <ExploreBanner />

@@ -7,7 +7,7 @@ import Footer from '../components/common/Footer';
 const LoggedOut = () => (
   <Root>
     <Head>
-      <title>commerce</title>
+      <title>Mulberry</title>
     </Head>
     <div className="account-container">
       <div className="custom-container py-5 my-4 my-sm-5">
