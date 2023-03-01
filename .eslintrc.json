@@ -2,6 +2,7 @@
   "extends": "next/core-web-vitals",
   "rules": {
     "curly": "error",
-    "quotes": ["error", "single"]
+    "quotes": ["error", "single"],
+    "@next/next/no-document-import-in-page": "off"
   }
 }

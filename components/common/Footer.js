@@ -139,7 +139,6 @@ const Footer = () => (
           </div>
           <div className="font-color-brand font-size-caption py-4 text-right">
           <a
-              href="/"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
               rel="noopener noreferrer"
